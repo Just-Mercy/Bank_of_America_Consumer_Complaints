@@ -1,7 +1,8 @@
 # Bank of America Consumer Complaint - Customer complaints dashboard 
 ---
 ## Project overview 
-This project analyzes synthetic financial transaction and customer data to uncover trends, improve decision-making, identify operational inefficiencies, and provide data-driven recommendations.
+This project analyzes synthetic financial transaction and customer data modelling after Bank of America Consumer Complaint to uncover trends, improve decision-making, identify operational inefficiencies, and provide data-driven recommendations.
+
 The data was cleaned with excel and explored with Power Bi.
 The dashboard was built with Power BI and focused on uncovering insight to improve cosumer satisfaction.
 
