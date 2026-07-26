@@ -66,3 +66,37 @@ The project analysis was guided by the following questions:
 ## Dashboard Pages
 ### Page 1 — Customer Complaints Overview & Distribution
 ![Dashboard](Dashboard_page_1.jpg)
+### Business Insights
+Customer complaints are heavily concentrated in a few states, with California (13,709), Florida (6,488), and Texas (4,686) accounting for the largest share of the 62,516 complaints. Checking & Savings Accounts (24,814 complaints), Credit Card/Prepaid Card (16,197), and Credit Reporting (7,710) are the most reported product categories. Most customers (72.66%) submitted complaints through the web, followed by referrals (17.22%), highlighting a strong preference for digital channels. Although the organization achieved an impressive 93.77% timely response rate, recurring issues related to account management and incorrect information indicate persistent operational challenges that continue to drive customer complaints.
+### Business Impact
+The findings suggest that customer service improvement efforts should be prioritized in high-complaint states and focused on the most affected product categories to maximize impact. Expanding digital support channels, including self-service platforms and chatbots, can further enhance the customer experience by aligning with preferred communication methods. While maintaining the current high response rate is important, addressing the root causes of recurring complaints through process improvements, better customer education, and stronger operational controls will provide greater long-term benefits by reducing complaint volumes and improving overall customer satisfaction.
+
+### Dashboard Page 2 — Complaint Trends & Response Performance
+![Dashboard](Dashboard_page_2.jpg)
+### Business Insights
+The organization demonstrated strong complaint management performance, resolving 58,619 (93.7%) complaints on time with an average response time of 1.22 days. However, 2,403 late responses and 1,494 pending complaints highlight opportunities to improve service timeliness. Credit Card/Prepaid Card services generated the highest complaint volume, while Mortgage services maintained high complaint volumes with consistently strong response performance. Complaint volumes also declined over the year, suggesting improvements in service quality, and lower-complaint products such as vehicle and student loans provide examples of effective practices that could be adopted across higher-volume product lines.
+### Business Impact
+Maintaining the current response efficiency while reducing late and pending complaints will strengthen customer satisfaction and regulatory compliance. Improvement efforts should prioritize Credit Card, Checking & Savings, and Credit Reporting services, while leveraging the successful complaint-handling processes used in Mortgage, vehicle loan, and student loan products. Sustaining the downward trend in complaint volumes through continuous process improvements and applying best practices across product lines can further enhance operational performance and customer experience.
+
+---
+
+## Recommendation
+- Prioritize process improvements for Credit Card, Checking & Savings, and Credit Reporting services while strengthening root-cause analysis to reduce recurring complaints.
+- Implement SLA monitoring and resolve the 1,494 pending complaints to improve response timeliness, customer satisfaction, and regulatory compliance.
+- Sustain the downward trend in complaint volumes by continuously monitoring response performance and replicating best practices from high-performing product lines.
+
+
+---
+
+# Author
+**Anuoluwa Onabajo**
+Data Analyst | Financial Analyst| Business Intelligence Analyst | Solar Engineer
+Skills: Excel • SQL • Power BI • Data Visualization • Business Intelligence.
+[LinkedIn](https://www.linkedin.com/in/anuoluwa-onabajo-87a429395?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+
+
+
+
+
+
