@@ -32,40 +32,37 @@ The project analysis was guided by the following questions:
 | Submitted via | How the complaint was submitted to the CFPB |
 | Date submitted | The date the CFPB received the complaint |
 |Date received	| The date the CFPB sent the complaint to the company |
-| State |	The state of the mailing address provided by the consumer |		
-| Product	| The type of product the consumer identified in the complaint |		
-| Sub-product |	The type of sub-product the consumer identified in the complaint (not all Products have Sub-products) |
-| Issue |	The issue the consumer identified in the complaint (possible values are dependent on Product) |
-| Sub-issue |	The sub-issue the consumer identified in the complaint (possible values are dependent on Product and Issue, and not all Issues have corresponding Sub-issues) |
-| Company public response	| "The company's optional, public-facing response to a consumer's complaint. Companies can choose to select a response from a pre-set list of options that will be posted on the public database. For example, ""Company believes complaint is the result of an isolated error.""" |
-| Company response to consumer |	"This is how the company responded. For example, ""Closed with explanation.""" |	
-| Timely response? | Whether the company gave a timely response (Yes/No) |
+| State |	Consumer's mailing state. |		
+| Product	| Financial product associated with the complaint. |		
+| Sub-product |	More detailed product classification. |
+| Issue |	Primary complaint issue. |
+| Sub-issue |	More detailed product classification.|
+| Company public response	| Optional public response published by the company. For example, ""Company believes complaint is the result of an isolated error."" |
+| Company response to consumer |Final company resolution. For example, ""Closed with explanation."" |	
+| Timely response? | Indicates whether the complaint was handled within the required timeframe. (Yes/No) |
 
 ## Tools Used 
 
 | Tool | Purpose |
 |---|---|
+| **Microsoft Excel** | **Data Cleaning, Validation and exploration** |
+| **DAX** | **Custom measures** |
+| **Power BI** | **Dashboard Development and Data visualization** |
+| **Power Query** | **Data cleaning and transformation** |
 
-## Business Objectives
-Analyze financial performance
-Identify revenue trends
-Evaluate customer profitability
-Measure branch performance
-Detect unusual transaction patterns
-Build interactive dashboards
-Generate actionable recommendations
-🛠 Tech Stack
-Tool
-Purpose
-Excel
-Initial data cleaning
-SQL
-Data extraction & querying
-Python (Pandas)
-Data cleaning & analysis
-Power BI
-Dashboard & visualization
-Git
-Version control
-GitHub
-Project documentation
+---
+
+## Methodology
+1. **Data Cleaning**
+   - Handled missing values.
+   - Standardized date formats.
+   - Corrected inconsistent categorical values.
+   - Prepared the data model for Power BI.
+2. **Visualization**
+   - Designed two interactive dashboard using filter.
+
+---
+
+## Dashboard Pages
+### Page 1 — Customer Complaints Overview & Distribution
+![Dashboard](Images/Dashboard.png)
