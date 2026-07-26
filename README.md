@@ -30,16 +30,11 @@ The project analysis was guided by the following questions:
 | Feild | Description|
 |---|---|
 | Complaint ID | The unique identification number for a complaint	|
-| Submitted via | How the complaint was submitted to the CFPB |
-| Date submitted | The date the CFPB received the complaint |
-|Date received	| The date the CFPB sent the complaint to the company |
 | State |	Consumer's mailing state. |		
 | Product	| Financial product associated with the complaint. |		
 | Sub-product |	More detailed product classification. |
 | Issue |	Primary complaint issue. |
 | Sub-issue |	More detailed product classification.|
-| Company public response	| Optional public response published by the company. For example, ""Company believes complaint is the result of an isolated error."" |
-| Company response to consumer |Final company resolution. For example, ""Closed with explanation."" |	
 | Timely response? | Indicates whether the complaint was handled within the required timeframe. (Yes/No) |
 
 ## Tools Used 
