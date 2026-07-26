@@ -85,6 +85,14 @@ Maintaining the current response efficiency while reducing late and pending comp
 - Implement SLA monitoring and resolve the 1,494 pending complaints to improve response timeliness, customer satisfaction, and regulatory compliance.
 - Sustain the downward trend in complaint volumes by continuously monitoring response performance and replicating best practices from high-performing product lines.
 
+---
+
+## Skill demonstration 
+- Data cleaning
+- Data Exploration
+- Data modeling
+- Data validation
+- Data visualization and story telling.
 
 ---
 
