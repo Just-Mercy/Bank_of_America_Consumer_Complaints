@@ -94,10 +94,3 @@ Maintaining the current response efficiency while reducing late and pending comp
 Data Analyst | Financial Analyst| Business Intelligence Analyst | Solar Engineer
 Skills: Excel • SQL • Power BI • Data Visualization • Business Intelligence.
 [LinkedIn](https://www.linkedin.com/in/anuoluwa-onabajo-87a429395?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-
-
-
-
-
-
-
