@@ -11,6 +11,19 @@ The project analysis was guided by the following questions:
 - Which category of customers are dissatisfied the most.
 - What is the complaints trend over time.
 
+
+## Dataset Information
+
+| Attribute | Details |
+|---|---|
+| Source | Consumer Financial Protection Bureau (CFPB) |
+| Industry | Financial Services |
+| Dataset Type | Consumer Complaints |
+| Records | 62,516 |
+| Time Period | 2017 - 2023 |
+| Format | XLXS |
+| Dashboard pages | 2|
+
 ## key content of the dataset
 
 | Feild | Description|
@@ -27,6 +40,11 @@ The project analysis was guided by the following questions:
 | Company public response	| "The company's optional, public-facing response to a consumer's complaint. Companies can choose to select a response from a pre-set list of options that will be posted on the public database. For example, ""Company believes complaint is the result of an isolated error.""" |
 | Company response to consumer |	"This is how the company responded. For example, ""Closed with explanation.""" |	
 | Timely response? | Whether the company gave a timely response (Yes/No) |
+
+## Tools Used 
+
+| Tool | Purpose |
+|---|---|
 
 ## Business Objectives
 Analyze financial performance
