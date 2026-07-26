@@ -5,13 +5,17 @@ This project analyzes synthetic financial transaction and customer data to uncov
 The data was cleaned with excel and explored with Power Bi.
 the dashboard was built with Power BI and focused of uncovering insight to improve cosumer satisfaction.
 
-# Business Questions 
+## Business Questions 
 The project analysis was guided by the following questions:
 - which product/service category received the most complaints.
 - Which category of customers are dissatisfied the most.
 - What is the complaints trend over time.
 
-# Business Objectives
+## key content of the dataset
+
+| Feild | Description|
+|---|---|
+Business Objectives
 Analyze financial performance
 Identify revenue trends
 Evaluate customer profitability
