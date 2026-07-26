@@ -65,4 +65,4 @@ The project analysis was guided by the following questions:
 
 ## Dashboard Pages
 ### Page 1 — Customer Complaints Overview & Distribution
-![Dashboard](Images/Dashboard_page_1.jpg)
+![Dashboard](Bank_of_America_Consumer_Complaints/Dashboard_page_1.jpg)
