@@ -3,7 +3,7 @@
 ## Project overview 
 This project analyzes synthetic financial transaction and customer data to uncover trends, improve decision-making, identify operational inefficiencies, and provide data-driven recommendations.
 The data was cleaned with excel and explored with Power Bi.
-the dashboard was built with Power BI and focused of uncovering insight to improve cosumer satisfaction.
+The dashboard was built with Power BI and focused on uncovering insight to improve cosumer satisfaction.
 
 ## Business Questions 
 The project analysis was guided by the following questions:
